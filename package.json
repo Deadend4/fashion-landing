@@ -1,0 +1,9 @@
+{
+  "name": "fashion-landing",
+  "version": "1.0.0",
+  "description": "landing",
+  "main": "index.html",
+  "author": "Alexandr Shiro",
+  "license": "MIT",
+  "private": null
+}
