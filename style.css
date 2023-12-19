@@ -801,7 +801,7 @@ p {
   }
 
   .burger {
-    z-index: 1;
+    z-index: 3;
     cursor: pointer;
     display: block;
     position: absolute;
@@ -878,10 +878,6 @@ p {
 
   .burger-checkbox:checked~.menu-list {
     transform: translateY(0);
-  }
-
-  .burger-checkbox:checked~main {
-    display: none;
   }
 
   header {
